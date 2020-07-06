@@ -73,7 +73,7 @@ The following MCU boards are supported for FreeRTOS:
     * IDE: [WICED Studio](https://community.cypress.com/community/wiced-wifi)
 12. **Cypress PSoC64** - 
     * [Getting Started Guide] (https://docs.aws.amazon.com/freertos/latest/userguide/getting_started_cypress_psoc64.html)
-    * IDE: [Modus Toolbox Software Environment] (https://www.cypress.com/products/modustoolbox-software-environment)
+    * IDE: [Modus Toolbox] (https://www.cypress.com/products/modustoolbox-software-environment)
 13. **Marvell MW320** - [Marvell MW320 AWS IoT Starter Kit](https://www.marvell.com/microcontrollers/aws-iot-starter-kit/)
     * [Getting Started Guide](https://docs.aws.amazon.com/freertos/latest/userguide/getting_started_marvell320.html)
 14. **Marvell MW322** - [Marvell MW322 AWS IoT Starter Kit](https://www.marvell.com/microcontrollers/aws-iot-starter-kit/)
